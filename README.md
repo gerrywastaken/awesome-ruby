@@ -992,6 +992,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 * [stackprof](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 * [test-prof](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
+* [fruity](https://github.com/marcandre/fruity) - Easily and accurately compare performance
 
 ## QR
 
